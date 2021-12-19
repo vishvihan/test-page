@@ -196,9 +196,33 @@ main{
 
 /* =================================================================== */
 footer{
-    background-color: rgba(0, 0, 0, 0.700);
-    height: 100px;
-    text-align: center;
+    background-color: #C2FFF9;
+    height: 300px;
+    /* text-align: center; */
     padding-top: 20px;
-    color: white;
 }
+.Vishal{
+    display: flex;
+    justify-content: space-between;
+}
+.Vishal img{
+    padding-right: 400px;
+}
+.Aunty{
+    height: 80px;
+    display: flex;
+    /* justify-content: space-between; */
+}
+.one{
+  width: 20%;  
+}
+.two{
+    /* width: 20%; */
+}
+.three{
+    /* width: 20%; */
+    margin-left: 0px;
+}
+/* .Aunty img{
+    padding-right: 400px;
+} */
