@@ -1,0 +1,204 @@
+h2{
+    font-size: 35px;
+}
+
+
+
+/* ============================================ */
+
+
+
+.inside-div{
+    width: 1200px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.nav-header-container{
+    background-color: rgb(8, 8, 51);
+    height: 60px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+/* =============================================================== */
+
+
+
+main{
+    background-color: rgb(110, 110, 218);
+    height: 500px;
+}
+.second-div{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.second-div-content1{
+    flex: 2;
+    padding-right: 90px;
+}
+.second-div-content2{
+    flex: 1;
+}
+.second-div h1{
+    font-size: 60px;
+}
+.para{
+    margin-top: 5px;
+    margin-bottom: 40px;
+}
+
+.startTest-btn{
+    background-image: linear-gradient(#f96b24,#ff9100);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+/* ================================================================== */
+
+
+.reason-container{
+    height: 500px;
+}
+
+.eligible-candidates{
+    display: flex;
+    justify-content: space-between;
+}
+
+.candidate-img{
+    width: 570px;
+}
+
+
+/* ==================================================================== */
+.our-testimonial{
+    background-color:gainsboro;
+    height: 500px;
+}
+.headingOftestimonials{
+    padding-top: 20px;
+}
+.reviews{
+    /* background-color: lightcoral; */
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Corinthia', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Source Sans 3', sans-serif;
+}
+.review1{
+    min-height: 100px;
+    width: 22%;
+
+}
+.review2{
+
+    min-height: 100px;
+    width: 22%;
+}
+.review3{
+    min-height: 100px;
+    width: 22%;
+}
+.review4{
+    min-height: 100px;
+    width: 22%;
+}
+
+
+/* =================================================================== */
+
+.div5-start-test{
+    background-color: #1c2a7a;
+    height: 350px;
+    color: white; 
+}
+.div5-content{
+    padding: 50px 0px;
+    text-align: center;
+}
+.div5-content h1{
+    font-size: 40px;
+    font-family: 'Corinthia', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Source Sans 3', sans-serif;
+}
+.div5-content p{
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: 'Corinthia', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Source Sans 3', sans-serif;;
+}
+
+/* ================================================================= */
+
+
+.div6-how-it-work{
+    padding-top: 20px;
+    height: 430px;
+}
+.div6-process{
+    display: flex;
+    justify-content: space-between;
+}
+.process1{
+    min-height: 300px;
+    width: 22%;
+}
+.process2{
+    min-height: 300px;
+    width: 22%;
+}
+.process3{
+    min-height: 300px;
+    width: 22%;
+}
+.process4{
+    min-height: 300px;
+    width: 22%;
+}
+/* ========================================================== */
+.div7-result{
+    height: 650px;
+    background-color: #FEE3EC;
+    padding-top: 10px;
+}
+.div7-heading{
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+.result-pic{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+/* =================================================================== */
+footer{
+    background-color: rgba(0, 0, 0, 0.700);
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
